@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         UGPhone Login Tool
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Ugphone Login
-// @author       King 👑
+// @author       King 👑 x HieuDz
 // @require      https://github.com/KingNotNgu/localstorage/raw/refs/heads/main/ugphone_login.js
 // @match        https://www.ugphone.com/*
 // @match        https://*.ugphone.com/*
