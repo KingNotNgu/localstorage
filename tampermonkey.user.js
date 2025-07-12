@@ -4,7 +4,7 @@
 // @version      3.0
 // @description  Ugphone Login
 // @author       King 👑
-// @require      https://github.com/KingNotNgu/localstorage/raw/refs/heads/main/ugphone.js
+// @require      https://kingdev.sbs/ugphone.js
 // @match        https://www.ugphone.com/*
 // @match        https://*.ugphone.com/*
 // @grant        GM_xmlhttpRequest
